@@ -2,7 +2,7 @@
 CanHacker_arduino
 # CanHacker_arduino CAN adapter on Arduino + MCP2515
 
-Use that [Library]([https://github.com/deepalarm/MCP2515_Arduino.git](https://github.com/deepalarm/MCP2515_Arduino/archive/refs/heads/main.zip)) to communicate with MCP2515
+Use that [Library](https://github.com/deepalarm/MCP2515_Arduino/archive/refs/heads/main.zip) to communicate with MCP2515
 
 ## Features
 
